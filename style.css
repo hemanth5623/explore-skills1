@@ -673,7 +673,7 @@ hr {
     box-sizing: border-box;
 }
 
-.extra-elements button {
+#extra-elements button {
     width: 70;  /* Increase width */
     height: 24px;  /* Increase height */
     font-size: 24px;
